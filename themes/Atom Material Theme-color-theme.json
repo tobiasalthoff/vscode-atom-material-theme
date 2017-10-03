@@ -64,14 +64,14 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#546E7A"
+        "foreground": "#546e7b"
       }
     },
     {
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#f0ffff"
       }
     },
     {
@@ -96,23 +96,59 @@
       }
     },
     {
+      "name": "Keyword Assignment",
+      "scope": ["keyword.operator"],
+      "settings": {
+        "foreground": "#89DDF3"
+      }
+    },
+    {
       "name": "Operator, Misc",
       "scope": [
         "keyword.control",
         "constant.other.color",
-        "punctuation",
         "meta.tag",
+        "keyword.other.template",
+        "keyword.other.substitution"
+      ],
+      "settings": {
+        "foreground": "#d395e7"
+      }
+    },
+    {
+      "name": "Operator, Misc",
+      "scope": [
+        "punctuation",
         "punctuation.definition.tag",
         "punctuation.separator.inheritance.php",
         "punctuation.definition.tag.html",
         "punctuation.definition.tag.begin.html",
         "punctuation.definition.tag.end.html",
-        "punctuation.section.embedded",
-        "keyword.other.template",
-        "keyword.other.substitution"
+        "punctuation.section.embedded"
       ],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#89ddf3"
+      }
+    },
+    {
+      "name": "Operator, Misc",
+      "scope": ["punctuation.definition.block.tag"],
+      "settings": {
+        "foreground": "#d395e7"
+      }
+    },
+    {
+      "name": "Meta Object",
+      "scope": ["meta.object-literal.key"],
+      "settings": {
+        "foreground": "#C3E88D"
+      }
+    },
+    {
+      "name": "Meta Object",
+      "scope": ["constant.language.boolean"],
+      "settings": {
+        "foreground": "#F07178"
       }
     },
     {
@@ -139,7 +175,28 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#EEFFFF"
+      }
+    },
+    {
+      "name": "Block Level Variables",
+      "scope": ["variable.other.object"],
+      "settings": {
+        "foreground": "#82AAFF"
+      }
+    },
+    {
+      "name": "Block Level Variables",
+      "scope": ["variable.language.this"],
+      "settings": {
+        "foreground": "#FF5370"
+      }
+    },
+    {
+      "name": "Brace",
+      "scope": ["meta.brace.round"],
+      "settings": {
+        "foreground": "#89DDF3"
       }
     },
     {
@@ -162,13 +219,12 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#EEFFFF"
       }
     },
     {
       "name": "String, Symbols, Inherited Class, Markup Heading",
       "scope": [
-        "string",
         "constant.other.symbol",
         "constant.other.key",
         "entity.other.inherited-class",
@@ -178,7 +234,22 @@
       ],
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#C3E88D"
+        "foreground": "#FFCB6B"
+      }
+    },
+    {
+      "name": "String",
+      "scope": ["string"],
+      "settings": {
+        "fontStyle": "normal",
+        "foreground": "#c3e88d"
+      }
+    },
+    {
+      "name": "Class, Support",
+      "scope": ["support.class"],
+      "settings": {
+        "foreground": "#F07178"
       }
     },
     {
@@ -186,7 +257,6 @@
       "scope": [
         "entity.name",
         "support.type",
-        "support.class",
         "support.orther.namespace.use.php",
         "meta.use.php",
         "support.other.namespace.php",
@@ -229,8 +299,8 @@
       "name": "Language methods",
       "scope": ["variable.language"],
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#FF5370"
+        "fontStyle": "normale",
+        "foreground": "#82AAFF"
       }
     },
     {
@@ -252,7 +322,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#FFCB6B"
       }
     },
     {

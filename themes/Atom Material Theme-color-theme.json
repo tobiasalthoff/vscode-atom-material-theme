@@ -179,6 +179,13 @@
       }
     },
     {
+      "name": "Support Variables",
+      "scope": ["support.variable"],
+      "settings": {
+        "foreground": "#FFCB6B"
+      }
+    },
+    {
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
@@ -291,6 +298,13 @@
       "scope": ["support.type"],
       "settings": {
         "foreground": "#B2CCD6"
+      }
+    },
+    {
+      "name": "Support Types",
+      "scope": ["support.type.object.module.js"],
+      "settings": {
+        "foreground": "#89DDF3"
       }
     },
     {

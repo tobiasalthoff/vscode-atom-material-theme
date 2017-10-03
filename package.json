@@ -1,0 +1,22 @@
+{
+    "name": "atom-material-theme",
+    "displayName": "Atom Material Theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "tobiasalthoff",
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Atom Material Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Atom Material Theme-color-theme.json"
+            }
+        ]
+    }
+}

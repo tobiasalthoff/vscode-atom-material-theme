@@ -559,6 +559,13 @@
       }
     },
     {
+      "name": "Markdown - Heading",
+      "scope": ["entity.name.section.markdown"],
+      "settings": {
+        "foreground": "#C3E88D"
+      }
+    },
+    {
       "name": "Markup - Italic",
       "scope": ["markup.italic"],
       "settings": {

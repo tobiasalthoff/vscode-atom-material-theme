@@ -216,17 +216,29 @@
     {
       "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
       "scope": [
-        "constant.numeric",
         "constant.language",
         "support.constant",
         "constant.character",
         "constant.escape",
         "variable.parameter",
-        "keyword.other.unit",
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#89DDF3"
+      }
+    },
+    {
+      "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
+      "scope": ["keyword.other.unit"],
+      "settings": {
+        "foreground": "#F78C6A"
+      }
+    },
+    {
+      "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
+      "scope": ["constant.numeric"],
+      "settings": {
+        "foreground": "#FFE082"
       }
     },
     {
@@ -292,7 +304,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#73d1c8"
       }
     },
     {

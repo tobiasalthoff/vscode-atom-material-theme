@@ -159,6 +159,13 @@
       }
     },
     {
+      "name": "Tag",
+      "scope": ["meta.tag.sgml"],
+      "settings": {
+        "foreground": "#C792EA"
+      }
+    },
+    {
       "name": "Function, Special Method",
       "scope": [
         "entity.name.function",
@@ -332,8 +339,16 @@
         "text.html.basic entity.other.attribute-name"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "normal",
         "foreground": "#FFCB6B"
+      }
+    },
+    {
+      "name": "HTML Attributes",
+      "scope": ["text.html.basic meta.tag.inline.any.html"],
+      "settings": {
+        "fontStyle": "normal",
+        "foreground": "#eeffff"
       }
     },
     {

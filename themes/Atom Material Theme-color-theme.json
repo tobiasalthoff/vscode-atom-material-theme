@@ -178,6 +178,13 @@
     },
     {
       "name": "Tag",
+      "scope": ["entity.name.tag.css", "entity.name.tag.reference.scss"],
+      "settings": {
+        "foreground": "#B2CCD6"
+      }
+    },
+    {
+      "name": "Tag",
       "scope": ["meta.tag.sgml"],
       "settings": {
         "foreground": "#C792EA"
@@ -407,6 +414,43 @@
       "scope": ["source.sass keyword.control"],
       "settings": {
         "foreground": "#82AAFF"
+      }
+    },
+    {
+      "name": "Punctuation",
+      "scope": ["punctuation.definition.keyword.scss"],
+      "settings": {
+        "foreground": "#C792EA"
+      }
+    },
+    {
+      "name": "Punctuation",
+      "scope": [
+        "punctuation.definition.interpolation.begin.bracket.curly.scss",
+        "punctuation.definition.interpolation.end.bracket.curly.scss"
+      ],
+      "settings": {
+        "foreground": "#eb434c"
+      }
+    },
+    {
+      "name": "Punctuation",
+      "scope": [
+        "punctuation.section.property-list.begin.bracket.curly.scss",
+        "punctuation.section.property-list.end.bracket.curly.scss"
+      ],
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "Punctuation",
+      "scope": [
+        "punctuation.section.function.begin.bracket.round.css",
+        "punctuation.section.function.end.bracket.round.css"
+      ],
+      "settings": {
+        "foreground": "#ffffff"
       }
     },
     {

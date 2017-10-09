@@ -515,6 +515,43 @@
       }
     },
     {
+      "name": "JSON Punctuation",
+      "scope": [
+        "punctuation.support.type.property-name.begin.json",
+        "punctuation.support.type.property-name.end.json"
+      ],
+      "settings": {
+        "foreground": "#C792EA"
+      }
+    },
+    {
+      "name": "JSON Punctuation",
+      "scope": [
+        "punctuation.definition.dictionary.begin.json",
+        "punctuation.definition.dictionary.end.json"
+      ],
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "JSON Punctuation",
+      "scope": [
+        "meta.structure.array.json punctuation.support.type.property-name.end.json",
+        "meta.structure.array.json punctuation.support.type.property-name.begin.json"
+      ],
+      "settings": {
+        "foreground": "#89DDF3"
+      }
+    },
+    {
+      "name": "JSON Constant",
+      "scope": ["constant.language.json"],
+      "settings": {
+        "foreground": "#F07178"
+      }
+    },
+    {
       "name": "JSON Key - Level 0",
       "scope": ["source.json meta.structure.dictionary.json support.type.property-name.json"],
       "settings": {

@@ -134,6 +134,13 @@
       }
     },
     {
+      "name": "Meta Children JSX",
+      "scope": ["meta.jsx.children.tsx"],
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    },
+    {
       "name": "Operator, Misc",
       "scope": [
         "punctuation",

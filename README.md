@@ -1,13 +1,11 @@
-# README
-## This is the README for your extension "atom-material-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Atom Material Theme for Visual Studio Code
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+> Color Theme from atom-material (https://atom.io/themes/atom-material-ui)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installation
 
-**Enjoy!**
+1. Open Extensions sidebar panel in VS Code. **View → Extensions**
+2. Search for **Atom Material Theme**
+3. Click **Install** to install it.
+4. Click **Reload** to reload the your editor
+5. File > Preferences > Color Theme > Atom Material Theme

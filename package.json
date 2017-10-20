@@ -2,14 +2,14 @@
   "name": "atom-material-theme",
   "displayName": "Atom Material Theme",
   "description": "Atom Material Theme - based on Atom-Material-Ui and Atom-Material-Syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "tobiasalthoff",
   "author": {
     "name": "tobiasalthoff"
   },
   "icon": "images/icon.png",
   "galleryBanner": {
-    "color": "#009688",
+    "color": "#232e33",
     "theme": "dark"
   },
   "license": "SEE LICENSE IN LICENSE.md",

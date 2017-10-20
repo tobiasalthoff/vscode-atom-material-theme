@@ -1,6 +1,6 @@
 # Atom Material Theme for Visual Studio Code
 
-> Color Theme from atom-material (https://atom.io/themes/atom-material-ui)
+> This Theme based on [atom-material-ui](https://github.com/atom-material/atom-material-ui) and [atom-material-syntax](https://github.com/atom-material/atom-material-syntax)
 
 ## Installation
 

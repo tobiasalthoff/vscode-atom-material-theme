@@ -1,22 +1,35 @@
 {
-    "name": "atom-material-theme",
-    "displayName": "Atom Material Theme",
-    "description": "",
-    "version": "0.0.1",
-    "publisher": "tobiasalthoff",
-    "engines": {
-        "vscode": "^1.16.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Atom Material Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Atom Material Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "atom-material-theme",
+  "displayName": "Atom Material Theme",
+  "description": "Atom Material Theme - based on Atom-Material-Ui and Atom-Material-Syntax",
+  "version": "0.0.1",
+  "publisher": "tobiasalthoff",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#009688",
+    "theme": "dark"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "homepage": "https://github.com/tobiasalthoff/vscode-atom-material-theme/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/tobiasalthoff/vscode-atom-material-theme/issues",
+    "email": "hi@tobiasalthoff.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tobiasalthoff/vscode-atom-material-theme"
+  },
+  "engines": {
+    "vscode": "^1.16.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Atom Material Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Atom Material Theme-color-theme.json"
+      }
+    ]
+  }
 }

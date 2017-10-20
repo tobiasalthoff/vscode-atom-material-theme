@@ -4,6 +4,9 @@
   "description": "Atom Material Theme - based on Atom-Material-Ui and Atom-Material-Syntax",
   "version": "0.0.1",
   "publisher": "tobiasalthoff",
+  "author": {
+    "name": "tobiasalthoff"
+  },
   "icon": "images/icon.png",
   "galleryBanner": {
     "color": "#009688",

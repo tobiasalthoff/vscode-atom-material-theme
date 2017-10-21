@@ -22,3 +22,9 @@
   "editor.letterSpacing": 0.5
 }
 ```
+
+## Credits
+
+- UI: [atom-material-ui](https://github.com/atom-material/atom-material-ui)
+- Syntax: [atom-material-syntax](https://github.com/atom-material/atom-material-syntax)
+- Screenshot-Code: [Atom Language Examples](https://github.com/atom/language-examples)

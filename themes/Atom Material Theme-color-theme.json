@@ -79,6 +79,7 @@
     },
     {
       "scope": [
+        "source",
         "punctuation.definition.dictionary",
         "punctuation.separator.dictionary.pair",
         "variable.other",

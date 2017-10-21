@@ -107,7 +107,8 @@
         "punctuation.section.property-list.end.bracket.curly.scss",
         "variable.interpolation.scss",
         "punctuation.definition.bracket.curly.begin.jsdoc",
-        "punctuation.definition.bracket.curly.end.jsdoc"
+        "punctuation.definition.bracket.curly.end.jsdoc",
+        "string.other.link.description.title.markdown"
       ],
       "settings": {
         "foreground": "#EEFFFF"
@@ -300,7 +301,7 @@
       }
     },
     {
-      "scope": ["markup.underline.link.image.markdown"],
+      "scope": ["markup.underline.link.image.markdown", "markup.underline.link.markdown"],
       "settings": {
         "foreground": "#ff869a"
       }

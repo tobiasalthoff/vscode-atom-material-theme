@@ -133,7 +133,6 @@
         "support.type.property-name",
         "string.quoted",
         "meta.object-literal.key",
-        "entity.other.inherited-class",
         "source.coffee.embedded.source",
         "entity.name.section.markdown",
         "punctuation.definition.heading.markdown",
@@ -163,7 +162,6 @@
         "entity.name.tag.xml",
         "entity.name.tag.localname.xml",
         "entity.name.tag.yaml",
-        "variable.language.this.js",
         "support.variable.property.js",
         "entity.name.tag.jade",
         "constant.name.attribute.tag.jade",
@@ -209,7 +207,8 @@
         "punctuation.support.type.property-name.begin.json",
         "punctuation.support.type.property-name.end.json",
         "keyword.other.definition.ini",
-        "punctuation.definition.block.tag.jsdoc"
+        "punctuation.definition.block.tag.jsdoc",
+        "storage.modifier.js"
       ],
       "settings": {
         "foreground": "#C792EA"
@@ -259,7 +258,8 @@
         "support.variable.object.process.js",
         "support.variable.property.process.js",
         "support.variable.dom.js",
-        "support.constant.json.js"
+        "support.constant.json.js",
+        "entity.other.inherited-class"
       ],
       "settings": {
         "foreground": "#FFCB6B"
@@ -278,7 +278,8 @@
         "punctuation.definition.metadata.markdown",
         "variable.language.special.self.python",
         "punctuation.definition.interpolation.begin.bracket.curly.scss",
-        "punctuation.definition.interpolation.end.bracket.curly.scss"
+        "punctuation.definition.interpolation.end.bracket.curly.scss",
+        "variable.language.this.js"
       ],
       "settings": {
         "foreground": "#FF5370"

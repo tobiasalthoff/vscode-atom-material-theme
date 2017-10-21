@@ -23,6 +23,52 @@
 }
 ```
 
+## Screenshots
+
+### HTML
+
+![HTML-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/master/images/screenshot-html.jpg)
+
+### CSS
+
+![CSS-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/master/images/screenshot-css.jpg)
+
+### SASS
+
+![SASS-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/master/images/screenshot-scss.jpg)
+
+### LESS
+
+![LESS-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/master/images/screenshot-less.jpg)
+
+### JavaScript
+
+![JavaScript-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/master/images/screenshot-js.jpg)
+
+### Coffeescript
+
+![Coffeescript-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/master/images/screenshot-coffeescript.jpg)
+
+### JSON
+
+![JSON-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/master/images/screenshot-json.jpg)
+
+### PHP
+
+![PHP-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/master/images/screenshot-php.jpg)
+
+### Python
+
+![Python-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/master/images/screenshot-py.jpg)
+
+### Java
+
+![Java-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/master/images/screenshot-java.jpg)
+
+### YAML
+
+![YAML-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/master/images/screenshot-yaml.jpg)
+
 ## Credits
 
 - UI: [atom-material-ui](https://github.com/atom-material/atom-material-ui)

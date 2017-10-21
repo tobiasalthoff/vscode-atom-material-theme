@@ -11,3 +11,14 @@
 3. Click **Install** to install it.
 4. Click **Reload** to reload the your editor
 5. File > Preferences > Color Theme > Atom Material Theme
+
+## Recommended Settings
+
+```
+{
+  "editor.fontSize": 16,
+  "editor.fontWeight": "400",
+  "editor.lineHeight": 24,
+  "editor.letterSpacing": 0.5
+}
+```

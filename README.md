@@ -53,6 +53,10 @@
 
 ![JSON-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/master/images/screenshot-json.jpg)
 
+### Markdown
+
+![Markdown-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/master/images/screenshot-md.jpg)
+
 ### PHP
 
 ![PHP-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/master/images/screenshot-php.jpg)

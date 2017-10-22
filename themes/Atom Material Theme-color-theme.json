@@ -108,7 +108,10 @@
         "variable.interpolation.scss",
         "punctuation.definition.bracket.curly.begin.jsdoc",
         "punctuation.definition.bracket.curly.end.jsdoc",
-        "string.other.link.description.title.markdown"
+        "string.other.link.description.title.markdown",
+        "constant.language.import-export-all.js",
+        "constant.language.import-export-all.ts",
+        "constant.language.import-export-all.tsx"
       ],
       "settings": {
         "foreground": "#EEFFFF"
@@ -166,7 +169,12 @@
         "entity.name.tag.jade",
         "constant.name.attribute.tag.jade",
         "entity.name.tag.js",
-        "support.class.component.js"
+        "support.class.component.js",
+        "entity.name.tag.ts",
+        "entity.name.tag.tsx",
+        "support.class.component.js",
+        "support.class.component.ts",
+        "support.class.component.tsx"
       ],
       "settings": {
         "foreground": "#F07178"
@@ -209,7 +217,8 @@
         "keyword.other.definition.ini",
         "punctuation.definition.block.tag.jsdoc",
         "storage.modifier.js",
-        "storage.modifier.ts"
+        "storage.modifier.ts",
+        "storage.modifier.tsx"
       ],
       "settings": {
         "foreground": "#C792EA"
@@ -236,7 +245,9 @@
         "variable.other.object.property.js",
         "entity.name.section.group-title.ini",
         "support.variable.property.dom.js",
-        "support.variable.property.dom.ts"
+        "support.variable.property.dom.ts",
+        "entity.name.type.ts",
+        "entity.name.type.tsx"
       ],
       "settings": {
         "foreground": "#82AAFF"
@@ -264,7 +275,11 @@
         "entity.other.inherited-class",
         "support.variable.dom.ts",
         "support.type.primitive.ts",
-        "entity.name.type.interface.ts"
+        "entity.name.type.interface.ts",
+        "entity.name.type.module.js",
+        "entity.name.type.module.ts",
+        "entity.name.type.module.tsx",
+        "support.variable.dom.tsx"
       ],
       "settings": {
         "foreground": "#FFCB6B"

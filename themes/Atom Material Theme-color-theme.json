@@ -208,7 +208,8 @@
         "punctuation.support.type.property-name.end.json",
         "keyword.other.definition.ini",
         "punctuation.definition.block.tag.jsdoc",
-        "storage.modifier.js"
+        "storage.modifier.js",
+        "storage.modifier.ts"
       ],
       "settings": {
         "foreground": "#C792EA"
@@ -234,7 +235,8 @@
         "entity.name.type.js",
         "variable.other.object.property.js",
         "entity.name.section.group-title.ini",
-        "support.variable.property.dom.js"
+        "support.variable.property.dom.js",
+        "support.variable.property.dom.ts"
       ],
       "settings": {
         "foreground": "#82AAFF"
@@ -259,7 +261,10 @@
         "support.variable.property.process.js",
         "support.variable.dom.js",
         "support.constant.json.js",
-        "entity.other.inherited-class"
+        "entity.other.inherited-class",
+        "support.variable.dom.ts",
+        "support.type.primitive.ts",
+        "entity.name.type.interface.ts"
       ],
       "settings": {
         "foreground": "#FFCB6B"
@@ -279,7 +284,8 @@
         "variable.language.special.self.python",
         "punctuation.definition.interpolation.begin.bracket.curly.scss",
         "punctuation.definition.interpolation.end.bracket.curly.scss",
-        "variable.language.this.js"
+        "variable.language.this.js",
+        "variable.language.this.ts"
       ],
       "settings": {
         "foreground": "#FF5370"

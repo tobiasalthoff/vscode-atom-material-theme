@@ -75,6 +75,10 @@
 
 ![YAML-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/master/images/screenshot-yaml.jpg)
 
+## Contributing
+
+If something don't look correct, please open an issue. I'll try to fix it.
+
 ## Credits
 
 - UI: [atom-material-ui](https://github.com/atom-material/atom-material-ui)

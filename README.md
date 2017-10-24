@@ -1,5 +1,7 @@
 # Atom Material Theme for Visual Studio Code
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/tobiasalthoff.atom-material-theme.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.atom-material-theme)
+
 > This Theme based on [atom-material-ui](https://github.com/atom-material/atom-material-ui) and [atom-material-syntax](https://github.com/atom-material/atom-material-syntax)
 
 ![Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/master/images/screenshot.png)

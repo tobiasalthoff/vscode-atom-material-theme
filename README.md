@@ -11,7 +11,7 @@
 1. Open Extensions sidebar panel in VS Code. **View → Extensions**
 2. Search for **Atom Material Theme**
 3. Click **Install** to install it.
-4. Click **Reload** to reload the your editor
+4. Click **Reload** to reload the editor.
 5. File > Preferences > Color Theme > Atom Material Theme
 
 ## Recommended Settings

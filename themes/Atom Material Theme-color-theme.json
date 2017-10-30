@@ -125,7 +125,8 @@
         "support.constant",
         "support.type.object.module.js",
         "meta.group.regexp",
-        "string.regexp.js"
+        "string.regexp.js",
+        "meta.parameters.js"
       ],
       "settings": {
         "foreground": "#89DDF3"

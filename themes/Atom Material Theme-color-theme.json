@@ -120,7 +120,8 @@
         "string.other.link.description.title.markdown",
         "constant.language.import-export-all.js",
         "constant.language.import-export-all.ts",
-        "constant.language.import-export-all.tsx"
+        "constant.language.import-export-all.tsx",
+        "meta.parameters.js"
       ],
       "settings": {
         "foreground": "#EEFFFF"
@@ -134,8 +135,7 @@
         "support.constant",
         "support.type.object.module.js",
         "meta.group.regexp",
-        "string.regexp.js",
-        "meta.parameters.js"
+        "string.regexp.js"
       ],
       "settings": {
         "foreground": "#89DDF3"

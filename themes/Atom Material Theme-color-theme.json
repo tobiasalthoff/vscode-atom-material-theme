@@ -175,6 +175,8 @@
         "entity.name.tag.xml",
         "entity.name.tag.localname.xml",
         "entity.name.tag.yaml",
+        "entity.name.tag.style.html",
+        "entity.name.tag.other.html",
         "support.variable.property.js",
         "entity.name.tag.jade",
         "constant.name.attribute.tag.jade",

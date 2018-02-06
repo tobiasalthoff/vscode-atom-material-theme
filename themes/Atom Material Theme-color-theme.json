@@ -126,7 +126,8 @@
         "constant.language.import-export-all.js",
         "constant.language.import-export-all.ts",
         "constant.language.import-export-all.tsx",
-        "meta.parameters.js"
+        "meta.parameters.js",
+        "punctuation.separator.comma.js"
       ],
       "settings": {
         "foreground": "#EEFFFF"
@@ -163,7 +164,11 @@
       }
     },
     {
-      "scope": ["constant.numeric", "variable.parameter.function", "keyword.other.unit"],
+      "scope": [
+        "constant.numeric",
+        "variable.parameter.function",
+        "keyword.other.unit"
+      ],
       "settings": {
         "foreground": "#F78C6A"
       }
@@ -197,7 +202,10 @@
       }
     },
     {
-      "scope": ["comment", "punctuation.definition.comment"],
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#4f6875"
@@ -241,7 +249,10 @@
       }
     },
     {
-      "scope": ["markup.italic.markdown", "punctuation.definition.italic.markdown"],
+      "scope": [
+        "markup.italic.markdown",
+        "punctuation.definition.italic.markdown"
+      ],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#C792EA"
@@ -270,7 +281,9 @@
       }
     },
     {
-      "scope": ["markup.quote.markdown"],
+      "scope": [
+        "markup.quote.markdown"
+      ],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#82AAFF"
@@ -302,7 +315,10 @@
       }
     },
     {
-      "scope": ["markup.bold.markdown", "punctuation.definition.bold.markdown"],
+      "scope": [
+        "markup.bold.markdown",
+        "punctuation.definition.bold.markdown"
+      ],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#FFCB6B"
@@ -323,7 +339,9 @@
       }
     },
     {
-      "scope": ["entity.name.tag"],
+      "scope": [
+        "entity.name.tag"
+      ],
       "settings": {
         "foreground": "#B2CCD6"
       }
@@ -332,14 +350,18 @@
       "scope": [
         "support.type.property-name.css",
         "support.type.property-name.media.css",
-        "support.constant.parity.css"
+        "support.constant.parity.css",
+        "meta.object-literal.key.js"
       ],
       "settings": {
         "foreground": "#73d1c8"
       }
     },
     {
-      "scope": ["markup.underline.link.image.markdown", "markup.underline.link.markdown"],
+      "scope": [
+        "markup.underline.link.image.markdown",
+        "markup.underline.link.markdown"
+      ],
       "settings": {
         "foreground": "#ff869a"
       }

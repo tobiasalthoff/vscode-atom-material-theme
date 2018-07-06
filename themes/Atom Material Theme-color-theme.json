@@ -164,11 +164,7 @@
       }
     },
     {
-      "scope": [
-        "constant.numeric",
-        "variable.parameter.function",
-        "keyword.other.unit"
-      ],
+      "scope": ["constant.numeric", "variable.parameter.function", "keyword.other.unit", "variable.parameter.graphql"],
       "settings": {
         "foreground": "#F78C6A"
       }
@@ -195,17 +191,15 @@
         "entity.name.tag.tsx",
         "support.class.component.js",
         "support.class.component.ts",
-        "support.class.component.tsx"
+        "support.class.component.tsx",
+        "variable.graphql"
       ],
       "settings": {
         "foreground": "#F07178"
       }
     },
     {
-      "scope": [
-        "comment",
-        "punctuation.definition.comment"
-      ],
+      "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#4f6875"
@@ -242,17 +236,17 @@
         "punctuation.definition.block.tag.jsdoc",
         "storage.modifier.js",
         "storage.modifier.ts",
-        "storage.modifier.tsx"
+        "storage.modifier.tsx",
+        "keyword.type.graphql",
+        "keyword.implements.graphql",
+        "keyword.scalar.graphql"
       ],
       "settings": {
         "foreground": "#C792EA"
       }
     },
     {
-      "scope": [
-        "markup.italic.markdown",
-        "punctuation.definition.italic.markdown"
-      ],
+      "scope": ["markup.italic.markdown", "punctuation.definition.italic.markdown"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#C792EA"
@@ -274,16 +268,15 @@
         "support.variable.property.dom.js",
         "support.variable.property.dom.ts",
         "entity.name.type.ts",
-        "entity.name.type.tsx"
+        "entity.name.type.tsx",
+        "entity.scalar.graphql"
       ],
       "settings": {
         "foreground": "#82AAFF"
       }
     },
     {
-      "scope": [
-        "markup.quote.markdown"
-      ],
+      "scope": ["markup.quote.markdown"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#82AAFF"
@@ -308,17 +301,17 @@
         "entity.name.type.module.js",
         "entity.name.type.module.ts",
         "entity.name.type.module.tsx",
-        "support.variable.dom.tsx"
+        "support.variable.dom.tsx",
+        "support.type.graphql",
+        "support.type.builtin.graphql",
+        "meta.type.object.graphql"
       ],
       "settings": {
         "foreground": "#FFCB6B"
       }
     },
     {
-      "scope": [
-        "markup.bold.markdown",
-        "punctuation.definition.bold.markdown"
-      ],
+      "scope": ["markup.bold.markdown", "punctuation.definition.bold.markdown"],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#FFCB6B"
@@ -339,9 +332,7 @@
       }
     },
     {
-      "scope": [
-        "entity.name.tag"
-      ],
+      "scope": ["entity.name.tag"],
       "settings": {
         "foreground": "#B2CCD6"
       }
@@ -358,10 +349,7 @@
       }
     },
     {
-      "scope": [
-        "markup.underline.link.image.markdown",
-        "markup.underline.link.markdown"
-      ],
+      "scope": ["markup.underline.link.image.markdown", "markup.underline.link.markdown"],
       "settings": {
         "foreground": "#ff869a"
       }

@@ -157,14 +157,15 @@
         "punctuation.definition.heading.markdown",
         "string.unquoted.plain.out.yaml",
         "string.template.js",
-        "string.interpolated.jade"
+        "string.interpolated.jade",
+        "support.type.builtin.graphql"
       ],
       "settings": {
         "foreground": "#C3E88D"
       }
     },
     {
-      "scope": ["constant.numeric", "variable.parameter.function", "keyword.other.unit", "variable.parameter.graphql"],
+      "scope": ["constant.numeric", "variable.parameter.function", "keyword.other.unit"],
       "settings": {
         "foreground": "#F78C6A"
       }
@@ -191,8 +192,7 @@
         "entity.name.tag.tsx",
         "support.class.component.js",
         "support.class.component.ts",
-        "support.class.component.tsx",
-        "variable.graphql"
+        "support.class.component.tsx"
       ],
       "settings": {
         "foreground": "#F07178"
@@ -237,9 +237,7 @@
         "storage.modifier.js",
         "storage.modifier.ts",
         "storage.modifier.tsx",
-        "keyword.type.graphql",
-        "keyword.implements.graphql",
-        "keyword.scalar.graphql"
+        "keyword.type.graphql"
       ],
       "settings": {
         "foreground": "#C792EA"
@@ -269,7 +267,7 @@
         "support.variable.property.dom.ts",
         "entity.name.type.ts",
         "entity.name.type.tsx",
-        "entity.scalar.graphql"
+        "variable.graphql"
       ],
       "settings": {
         "foreground": "#82AAFF"
@@ -302,9 +300,7 @@
         "entity.name.type.module.ts",
         "entity.name.type.module.tsx",
         "support.variable.dom.tsx",
-        "support.type.graphql",
-        "support.type.builtin.graphql",
-        "meta.type.object.graphql"
+        "support.type.graphql"
       ],
       "settings": {
         "foreground": "#FFCB6B"

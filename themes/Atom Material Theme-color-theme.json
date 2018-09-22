@@ -82,7 +82,8 @@
     "terminal.ansiYellow": "#ffcb43",
     "terminal.background": "#1b1b1b",
     "terminal.foreground": "#e6e5e5",
-    "titleBar.activeBackground": "#222d32"
+    "titleBar.activeBackground": "#222d32",
+    "dropdown.background": "#20292e"
   },
   "tokenColors": [
     {

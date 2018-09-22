@@ -8,6 +8,7 @@
     "activityBarBadge.background": "#009688",
     "diffEditor.insertedTextBackground": "#00ff001a",
     "diffEditor.removedTextBackground": "#ff00001a",
+    "dropdown.background": "#20292e",
     "editor.background": "#263238",
     "editor.findMatchBackground": "#0096887a",
     "editor.foreground": "#d4d4d4",
@@ -84,16 +85,9 @@
     "terminal.ansiYellow": "#ffcb43",
     "terminal.background": "#1b1b1b",
     "terminal.foreground": "#e6e5e5",
-    "titleBar.activeBackground": "#222d32",
-    "dropdown.background": "#20292e"
+    "titleBar.activeBackground": "#222d32"
   },
   "tokenColors": [
-    {
-      "settings": {
-        "foreground": "#EEFFFF",
-        "background": "#263238"
-      }
-    },
     {
       "scope": [
         "source",

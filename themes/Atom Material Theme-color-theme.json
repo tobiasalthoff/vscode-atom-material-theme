@@ -46,6 +46,8 @@
     "list.inactiveFocusBackground": "#009688",
     "list.inactiveSelectionBackground": "#2c383d",
     "list.inactiveSelectionForeground": "#dff5f3",
+    "panel.background": "#232e33",
+    "panelTitle.activeBorder": "#009688",
     "pickerGroup.border": "#009688",
     "pickerGroup.foreground": "#009688",
     "scrollbarSlider.activeBackground": "#a7b6b840",

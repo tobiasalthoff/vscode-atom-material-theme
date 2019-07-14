@@ -83,9 +83,9 @@
     "terminal.ansiRed": "#ff5d4e",
     "terminal.ansiWhite": "#e6e5e5",
     "terminal.ansiYellow": "#ffcb43",
-    "terminal.background": "#1b1b1b",
-    "terminal.foreground": "#e6e5e5",
-    "titleBar.activeBackground": "#222d32"
+    "terminal.background": "#273237",
+    "terminal.foreground": "#d4d4d4",
+    "titleBar.activeBackground": "#222d32",
   },
   "tokenColors": [
     {

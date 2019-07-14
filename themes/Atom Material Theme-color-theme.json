@@ -86,6 +86,7 @@
     "terminal.background": "#273237",
     "terminal.foreground": "#d4d4d4",
     "titleBar.activeBackground": "#222d32",
+    "debugToolBar.background": "#232e33"
   },
   "tokenColors": [
     {

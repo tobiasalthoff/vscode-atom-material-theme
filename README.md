@@ -2,7 +2,7 @@
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/tobiasalthoff.atom-material-theme.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.atom-material-theme)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating/tobiasalthoff.atom-material-theme.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.atom-material-theme)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/tobiasalthoff.atom-material-theme.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.atom-material-theme)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/tobiasalthoff.atom-material-theme.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.atom-material-theme)
 
 > This Theme based on [atom-material-ui](https://github.com/atom-material/atom-material-ui) and [atom-material-syntax](https://github.com/atom-material/atom-material-syntax)
 

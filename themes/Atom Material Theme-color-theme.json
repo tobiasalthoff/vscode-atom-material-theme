@@ -5,6 +5,7 @@
     "activityBar.background": "#20292e",
     "activityBar.dropBackground": "#009688",
     "activityBar.foreground": "#a7b6b8",
+    "scrollbar.shadow": "#263238", 
     "activityBarBadge.background": "#009688",
     "diffEditor.insertedTextBackground": "#00ff001a",
     "diffEditor.removedTextBackground": "#ff00001a",

@@ -265,6 +265,7 @@
       "scope": [
         "entity.name.function",
         "support.function",
+        "variable.other.property",
         "punctuation.definition.string.begin.markdown",
         "punctuation.definition.string.end.markdown",
         "markup.quote.markdown",
@@ -355,8 +356,7 @@
         "support.type.property-name.css",
         "support.type.property-name.media.css",
         "support.constant.parity.css",
-        "meta.object-literal.key.js",
-        "variable.other.property",
+        "meta.object-literal.key.js"
       ],
       "settings": {
         "foreground": "#73d1c8"

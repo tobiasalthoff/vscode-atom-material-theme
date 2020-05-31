@@ -1,6 +1,7 @@
 {
   "name": "Atom Material Theme",
   "type": "dark",
+  "semanticHighlighting": false,
   "colors": {
     "activityBar.activeBorder": "#009688",
     "activityBar.background": "#20292e",

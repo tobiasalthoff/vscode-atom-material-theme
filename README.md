@@ -8,18 +8,6 @@
 
 ![Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/master/images/screenshot.png)
 
-## Visual Studio Code v1.43.0 wrong syntax highlighting
-
-[February 2020 (version 1.43) update broke js syntax highlighting](https://github.com/microsoft/vscode/issues/92308). To temporary fix this issue, you need to add this to your settings:
-
-```
-  "editor.semanticHighlighting.enabled": false
-```
-
-I'm updating the theme as soon as possible.
-
----
-
 ## Installation
 
 1. Open Extensions sidebar panel in VS Code. **View → Extensions**

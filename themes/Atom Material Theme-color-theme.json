@@ -357,7 +357,8 @@
         "support.type.property-name.css",
         "support.type.property-name.media.css",
         "support.constant.parity.css",
-        "meta.object-literal.key.js"
+        "meta.object-literal.key.js",
+        "meta.object-literal.key.ts"
       ],
       "settings": {
         "foreground": "#73d1c8"

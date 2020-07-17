@@ -1,6 +1,18 @@
 
 // Example -----------------------------
 
+class Greeter {
+  greeting = 'test';
+
+  constructor(text) {
+    this.greeting = text;
+  }
+
+  showGreeting() {
+    return this.greeting;
+  }
+}
+
 const myGreeter = new Greeter("hello, world");
 myGreeter.greeting = "howdy";
 myGreeter.showGreeting();

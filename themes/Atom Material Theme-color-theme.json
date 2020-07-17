@@ -1,13 +1,11 @@
 {
   "name": "Atom Material Theme",
   "type": "dark",
-  "semanticHighlighting": false,
+  "semanticHighlighting": true,
   "colors": {
     "activityBar.activeBorder": "#009688",
     "activityBar.background": "#20292e",
-    "activityBar.dropBackground": "#009688",
     "activityBar.foreground": "#a7b6b8",
-    "scrollbar.shadow": "#263238",
     "activityBarBadge.background": "#009688",
     "diffEditor.insertedTextBackground": "#00ff001a",
     "diffEditor.removedTextBackground": "#ff00001a",
@@ -24,19 +22,20 @@
     "editorGroupHeader.tabsBackground": "#232e33",
     "editorLineNumber.foreground": "#3e4b50",
     "editorOverviewRuler.findMatchForeground": "#0000ff",
-    "editorWidget.background": "#232e33",
-    "editorWidget.border": "#29363d",
     "editorSuggestWidget.background": "#29363d",
     "editorSuggestWidget.border": "#29363d",
     "editorSuggestWidget.foreground": "#e6f5f3",
     "editorSuggestWidget.highlightForeground": "#e6f5f3",
     "editorSuggestWidget.selectedBackground": "#009688",
+    "editorWidget.background": "#232e33",
+    "editorWidget.border": "#29363d",
     "focusBorder": "#2c383d",
-    "gitDecoration.conflictingResourceForeground": "#f69864",
-    "gitDecoration.deletedResourceForeground": "#EF5350",
+    "gitDecoration.untrackedResourceForeground": "#82AAFF",
+    "gitDecoration.addedResourceForeground": "#C3E88D",
+    "gitDecoration.modifiedResourceForeground": "#FFCB6B",
+    "gitDecoration.deletedResourceForeground": "#F07178",
+    "gitDecoration.conflictingResourceForeground": "#F78C6A",
     "gitDecoration.ignoredResourceForeground": "#6a777a",
-    "gitDecoration.modifiedResourceForeground": "#FFCA28",
-    "gitDecoration.untrackedResourceForeground": "#8BC34A",
     "input.background": "#20292e",
     "input.foreground": "#ffffff",
     "input.placeholderForeground": "#717e82",
@@ -50,11 +49,12 @@
     "list.inactiveFocusBackground": "#009688",
     "list.inactiveSelectionBackground": "#2c383d",
     "list.inactiveSelectionForeground": "#dff5f3",
-    "panel.border": "#232e33",
     "panel.background": "#273237",
+    "panel.border": "#232e33",
     "panelTitle.activeBorder": "#009688",
     "pickerGroup.border": "#009688",
     "pickerGroup.foreground": "#009688",
+    "scrollbar.shadow": "#263238",
     "scrollbarSlider.activeBackground": "#a7b6b840",
     "scrollbarSlider.background": "#20292e7f",
     "scrollbarSlider.hoverBackground": "#20292ebf",
@@ -91,6 +91,122 @@
     "terminal.foreground": "#d4d4d4",
     "titleBar.activeBackground": "#222d32",
     "debugToolBar.background": "#232e33"
+  },
+  "semanticTokenColors": {
+    "*.abstract": {
+      "foreground": "#ff0000"
+    },
+    "*.async": {
+      "foreground": "#ff0000"
+    },
+    "*.declaration": {
+      "foreground": "#ff0000"
+    },
+    "*.deprecated": {
+      "foreground": "#ff0000"
+    },
+    "*.documentation": {
+      "foreground": "#ff0000"
+    },
+    "*.modification": {
+      "foreground": "#ff0000"
+    },
+    "*.readonly": {
+      "foreground": "#ff0000"
+    },
+    "*.static": {
+      "foreground": "#ff0000"
+    },
+    "class": {
+      "foreground": "#FFCB6B"
+    },
+    "class.readonly": {
+      "foreground": "#FFCB6B"
+    },
+    "class.defaultLibrary": {
+      "foreground": "#FFCB6B"
+    },
+    "comment": {
+      "foreground": "#ff0000"
+    },
+    "enum": {
+      "foreground": "#82AAFF"
+    },
+    "enumMember": {
+      "foreground": "#ff0000"
+    },
+    "event": {
+      "foreground": "#ff0000"
+    },
+    "function": {
+      "foreground": "#82AAFF"
+    },
+    "function.readonly": {
+      "foreground": "#82AAFF"
+    },
+    "function.defaultLibrary": {
+      "foreground": "#82AAFF"
+    },
+    "interface": {
+      "foreground": "#FFCB6B"
+    },
+    "keyword": {
+      "foreground": "#ff0000"
+    },
+    "label": {
+      "foreground": "#ff0000"
+    },
+    "macro": {
+      "foreground": "#EEFFFF"
+    },
+    "member": {
+      "foreground": "#82AAFF"
+    },
+    "namespace": {
+      "foreground": "#F07178"
+    },
+    "number": {
+      "foreground": "#ff0000"
+    },
+    "operator": {
+      "foreground": "#ff0000"
+    },
+    "parameter": {
+      "foreground": "#EEFFFF"
+    },
+    "property": {
+      "foreground": "#73D1C8"
+    },
+    "property.readonly": {
+      "foreground": "#ff0000"
+    },
+    "regexp": {
+      "foreground": "#ff0000"
+    },
+    "string": {
+      "foreground": "#C3E88D"
+    },
+    "struct": {
+      "foreground": "#C792EA"
+    },
+    "type": {
+      "foreground": "#82AAFF"
+    },
+    "type.defaultLibrary": {
+      "foreground": "#82AAFF"
+    },
+    "typeParameter": {
+      "foreground": "#ff0000"
+    },
+    "variable": {
+      "foreground": "#EEFFFF"
+    },
+    "variable.readonly": {
+      "foreground": "#EEFFFF"
+    },
+    "variable.readonly.defaultLibrary": {
+      "foreground": "#EEFFFF"
+    }
   },
   "tokenColors": [
     {

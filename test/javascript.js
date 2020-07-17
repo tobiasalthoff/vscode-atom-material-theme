@@ -42,6 +42,10 @@ let soda = new Food('cola', 5.95);
 var cheese = new Food('feta', 5);
 var fun = new Toy('robot', 40);
 
+let whatever = {
+  0: 1,
+}
+
 /**
 sample javascript from xui
 */

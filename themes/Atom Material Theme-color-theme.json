@@ -198,7 +198,8 @@
         "entity.name.tag.tsx",
         "support.class.component.js",
         "support.class.component.ts",
-        "support.class.component.tsx"
+        "support.class.component.tsx",
+        "support.class.component.html"
       ],
       "settings": {
         "foreground": "#F07178"

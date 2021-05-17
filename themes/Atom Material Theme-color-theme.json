@@ -247,7 +247,8 @@
         "storage.modifier.js",
         "storage.modifier.ts",
         "storage.modifier.tsx",
-        "keyword.type.graphql"
+        "keyword.type.graphql",
+        "keyword.other.default"
       ],
       "settings": {
         "foreground": "#C792EA"

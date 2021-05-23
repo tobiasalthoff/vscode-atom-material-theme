@@ -15,8 +15,7 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "homepage": "https://github.com/tobiasalthoff/vscode-atom-material-theme/blob/master/README.md",
   "bugs": {
-    "url": "https://github.com/tobiasalthoff/vscode-atom-material-theme/issues",
-    "email": "hi@tobiasalthoff.de"
+    "url": "https://github.com/tobiasalthoff/vscode-atom-material-theme/issues"
   },
   "repository": {
     "type": "git",

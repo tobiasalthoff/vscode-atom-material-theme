@@ -21,61 +21,16 @@
 ```
 {
   "editor.fontSize": 16,
-  "editor.fontWeight": "400",
-  "editor.lineHeight": 24,
+  "editor.lineHeight": 1.5,
   "editor.letterSpacing": 0.5
 }
 ```
 
-## Screenshots
+## FAQ
 
-### HTML
+### Which font do you use?
 
-![HTML-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/main/images/screenshot-html.jpg)
-
-### CSS
-
-![CSS-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/main/images/screenshot-css.jpg)
-
-### SASS
-
-![SASS-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/main/images/screenshot-scss.jpg)
-
-### LESS
-
-![LESS-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/main/images/screenshot-less.jpg)
-
-### JavaScript
-
-![JavaScript-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/main/images/screenshot-js.jpg)
-
-### Coffeescript
-
-![Coffeescript-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/main/images/screenshot-coffeescript.jpg)
-
-### JSON
-
-![JSON-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/main/images/screenshot-json.jpg)
-
-### Markdown
-
-![Markdown-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/main/images/screenshot-md.jpg)
-
-### PHP
-
-![PHP-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/main/images/screenshot-php.jpg)
-
-### Python
-
-![Python-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/main/images/screenshot-py.jpg)
-
-### Java
-
-![Java-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/main/images/screenshot-java.jpg)
-
-### YAML
-
-![YAML-Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/main/images/screenshot-yaml.jpg)
+I use [Operator Mono](https://www.typography.com/fonts/operator/overview). Yes, I paid for it and it is worth every €€€ :-)
 
 ## Contributing
 
@@ -85,4 +40,4 @@ If something don't look correct, please open an issue. I'll try to fix it.
 
 - UI: [atom-material-ui](https://github.com/atom-material/atom-material-ui)
 - Syntax: [atom-material-syntax](https://github.com/atom-material/atom-material-syntax)
-- Screenshot-Code: [Atom Language Examples](https://github.com/atom/language-examples)
+- Samples: [Atom Language Examples](https://github.com/atom/language-examples)

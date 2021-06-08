@@ -275,6 +275,7 @@
         "meta.function-call.generic.python",
         "keyword.other.special-method.ruby",
         "entity.name.type.js",
+        "variable.other.object.property.js",
         "entity.name.section.group-title.ini",
         "support.variable.property.dom.js",
         "support.variable.property.dom.ts",
@@ -315,9 +316,6 @@
         "entity.name.type.module.ts",
         "entity.name.type.module.tsx",
         "support.variable.dom.tsx",
-        "meta.object-literal.key.js",
-        "variable.other.property.js",
-        "variable.other.object.property.js",
         "support.type.graphql"
       ],
       "settings": {
@@ -361,6 +359,7 @@
         "support.type.property-name.css",
         "support.type.property-name.media.css",
         "support.constant.parity.css",
+        "meta.object-literal.key.js",
         "meta.object-literal.key.ts"
       ],
       "settings": {

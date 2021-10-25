@@ -1,10 +1,12 @@
 # Atom Material Theme for Visual Studio Code
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/tobiasalthoff.atom-material-theme.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.atom-material-theme)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating/tobiasalthoff.atom-material-theme.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.atom-material-theme)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/tobiasalthoff.atom-material-theme.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.atom-material-theme)
-
 > This Theme based on [atom-material-ui](https://github.com/atom-material/atom-material-ui) and [atom-material-syntax](https://github.com/atom-material/atom-material-syntax)
+
+<div align="center">
+  <a href="https://vscode.dev/theme/tobiasalthoff.atom-material-theme" align="center">
+    <img src="https://img.shields.io/badge/preview%20in-vscode.dev-blue">
+  </a>
+</div>
 
 ![Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-atom-material-theme/main/images/screenshot.png)
 

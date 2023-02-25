@@ -142,7 +142,8 @@
         "support.constant",
         "support.type.object.module.js",
         "meta.group.regexp",
-        "string.regexp.js"
+        "string.regexp.js",
+        "source.js-ignored-vscode"
       ],
       "settings": {
         "foreground": "#89DDF3"

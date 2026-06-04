@@ -316,7 +316,8 @@
         "entity.name.type.module.ts",
         "entity.name.type.module.tsx",
         "support.variable.dom.tsx",
-        "support.type.graphql"
+        "support.type.graphql",
+        "entity.name.type.go"
       ],
       "settings": {
         "foreground": "#FFCB6B"

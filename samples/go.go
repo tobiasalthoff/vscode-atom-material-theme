@@ -46,6 +46,21 @@ if 7%2 == 0 {
 b := [5]int{1, 2, 3, 4, 5}
 fmt.Println("dcl:", b)
 
+// Struct
+type Person struct {
+  Name string
+  Age  int
+}
+
+// Interface
+type Animal interface {
+  Sound() string
+  Move()
+}
+
+// Type alias
+type Celsius float64
+
 // Function
 func main() {
   res := plus(1, 2)
